@@ -1,4 +1,4 @@
-package com.sarkar.design.pattern.builder;
+package com.sarkar.design.pattern.creational.builder;
 
 public class User {
     //All final attributes

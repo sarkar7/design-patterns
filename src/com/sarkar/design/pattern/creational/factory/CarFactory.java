@@ -1,4 +1,4 @@
-package com.sarkar.design.pattern.factory;
+package com.sarkar.design.pattern.creational.factory;
 
 public class CarFactory {
     public static Car buildCar(CarType model) {

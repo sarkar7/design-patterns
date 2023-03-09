@@ -1,4 +1,4 @@
-package com.sarkar.design.pattern.builder;
+package com.sarkar.design.pattern.creational.builder;
 
 public class BuilderTest {
     public static void main(String[] args) {

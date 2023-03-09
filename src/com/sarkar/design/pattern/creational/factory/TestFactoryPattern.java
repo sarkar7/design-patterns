@@ -1,4 +1,4 @@
-package com.sarkar.design.pattern.factory;
+package com.sarkar.design.pattern.creational.factory;
 
 public class TestFactoryPattern {
     public static void main(String[] args) {

@@ -1,12 +1,4 @@
-package com.sarkar.design.pattern.singleton;
-
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.lang.reflect.Constructor;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+package com.sarkar.design.pattern.creational.singleton;
 
 public class SingletonTestClass {
 
@@ -22,7 +14,7 @@ public class SingletonTestClass {
 
         /*
         //Reflection
-        Class clazz = Class.forName("com.sarkar.design.pattern.singleton.Singleton");
+        Class clazz = Class.forName("com.sarkar.design.pattern.creational.singleton.Singleton");
         Constructor<Singleton> constructor = clazz.getDeclaredConstructor();
         constructor.setAccessible(true);
         Singleton s3 = constructor.newInstance();

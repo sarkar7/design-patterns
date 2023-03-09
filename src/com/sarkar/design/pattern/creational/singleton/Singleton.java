@@ -1,4 +1,4 @@
-package com.sarkar.design.pattern.singleton;
+package com.sarkar.design.pattern.creational.singleton;
 
 import java.io.ObjectStreamException;
 import java.io.Serializable;
