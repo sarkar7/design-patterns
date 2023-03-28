@@ -1,4 +1,4 @@
-package com.sarkar.design.pattern.creational.factory;
+package com.sarkar.design.pattern.creational.factory.car;
 
 public class SmallCar extends Car {
     SmallCar() {

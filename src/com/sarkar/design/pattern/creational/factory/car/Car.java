@@ -1,4 +1,4 @@
-package com.sarkar.design.pattern.creational.factory;
+package com.sarkar.design.pattern.creational.factory.car;
 
 public abstract class Car {
     public Car(CarType model) {
